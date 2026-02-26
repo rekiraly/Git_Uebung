@@ -1,0 +1,11 @@
+print("Hello World!!!")
+
+a = 10+5
+
+print(a)
+
+b = a
+
+a = 34
+
+abc = a+b
